@@ -1,0 +1,16 @@
+---
+layout: page
+title: Projects
+permalink: /projects
+---
+
+<h1>Projects</h1>
+
+<p>Here is a list of projects that I've worked on</p>
+
+<div class="container-lg clearfix">
+  {% for project in site.data.projects %}
+    {% include project-card.html %}
+  {% endfor %}
+
+</div>

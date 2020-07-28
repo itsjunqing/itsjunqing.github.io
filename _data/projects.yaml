@@ -1,0 +1,63 @@
+- name: Biquadris
+  description: Tetris-like C++ game
+  github: biquadris-game
+  image: biquadris.png
+  tools: 
+    - c++
+    - design patterns
+
+- name: WorkBounce
+  description: Platform connecting skilled labours professionals with customers
+  github: hackthevalley
+  image: workbounce.png
+  tools:
+    - mongo
+    - expressjs
+    - reactjs
+    - bootstrap
+    - swagger
+    - firebase
+    - nodejs
+    - twilio
+
+- name: HealthConnect
+  description: Health integration prototype platform for students, universities and hospitals
+  github: health-connection
+  image: healthconnect.png
+  tools: 
+    - nodejs
+    - sheety
+    - netlify
+
+- name: sThrive
+  description: Simple web chat application 
+  github: sThrive
+  image: sthrive.png
+  tools: 
+    - firebase
+
+- name: Hearts 
+  description: Trick-taking hearts card game
+  github: hearts-game
+  image: hearts.png
+  tools: 
+    - haskell
+
+- name: Asteriods
+  description: Bullet-shooting game
+  github: asteriods-gameplay
+  image: asteriods.png
+  tools: 
+    - observables
+    - typescript
+
+- name: TGF Cloud
+  description: A virtual-cloud setup guide 
+  github: tgf
+  image: tgf.png
+  tools:
+    - bootstrap
+    - digitalocean
+    - freenom
+
+

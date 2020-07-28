@@ -1,0 +1,43 @@
+title: itsjunqing
+name: Jun Qing Lim
+description: A personal blog
+github: itsjunqing
+favicon: /assets/favicon/favicon.ico
+github_username: itsjunqing
+linkedin_username: itsjunqing
+
+# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+# Used for Sitemap.xml and your RSS feed
+url: "itsjunqing.me"
+
+# If you're hosting your site at a Project repository on GitHub pages
+# (http://yourusername.github.io/repository-name)
+# and NOT your User repository (http://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+baseurl: ""
+
+permalink: /:title/
+
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :expanded # You might prefer to minify using :compressed
+  # Where you keep your scss files
+  sass_dir: assets/css/
+  # Where sass should look for other scss
+  load_paths:
+    - node_modules/
+    - _sass/
+
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME

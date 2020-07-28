@@ -1,0 +1,15 @@
+<div class="Box text-center m-3">
+	<div class="Box-header p-2">
+		<h3>{{ project.name }}</h3>
+	</div>
+	<div class="Box-body">
+		<p class="f4">{{ project.description }}</p>
+
+		<p class="f4"><a href="https://github.com/{{ site.github_username }}/{{ project.github }}"><i class="fab fa-github"></i> Source</a></p>
+		
+		{% for tool in project.tools %}
+			<span class="Label mr-1 Label--dark">{{ tool }}</span>
+		{% endfor %}
+		
+	</div>
+</div>
