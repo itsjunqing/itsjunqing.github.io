@@ -10,7 +10,7 @@ avatar: assets/img/avatar/walking.gif
 url: "itsjunqing.me"
 baseurl: ""
 
-# permalink: /blog/:title
+permalink: /blog/:title
 
 # Set the Sass partials directory, as we're using @imports
 sass:
