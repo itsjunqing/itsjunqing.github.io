@@ -5,12 +5,12 @@ github: itsjunqing
 favicon: /assets/favicon/favicon.ico
 github_username: itsjunqing
 linkedin_username: itsjunqing
-avatar: assets/img/avatar/avatar.gif
+avatar: assets/img/avatar/walking.gif
 
 url: "itsjunqing.me"
 baseurl: ""
 
-permalink: /:title/
+permalink: /blog/:title
 
 # Set the Sass partials directory, as we're using @imports
 sass:
