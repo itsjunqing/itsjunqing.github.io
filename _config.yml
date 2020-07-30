@@ -34,3 +34,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+blog:
+  math: assets/img/blog/math
+  exchange: assets/img/blog/exchange

@@ -116,6 +116,17 @@ img {
   max-width: 100%;
 }
 
+.blog {
+  width: 85%;
+  // height: auto;
+  border: 1px solid #ddd; /* Gray border */
+  border-radius: 5px;  /* Rounded border */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;

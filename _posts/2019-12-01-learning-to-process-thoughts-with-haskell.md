@@ -4,7 +4,7 @@ title: Learning to process thoughts with Haskell
 
 ---
 
-"**Once upon a time, there was a mathematician named Alonzo Church at Princeton University. Church was Alan Turing’s PhD supervisor. Church devised a mathematical model of functions called lambda calculus. Yes, this is where modern-day lambdas come from!" - quoted from Brief History of Haskell**
+"**Once upon a time, there was a mathematician named Alonzo Church at Princeton University. Church was Alan Turing’s PhD supervisor. Church devised a mathematical model of functions called lambda calculus. Yes, this is where modern-day lambdas come from!" - quoted from [Brief History of Haskell](https://www.futurelearn.com/courses/functional-programming-haskell/0/steps/27218)**
 
 Alan Turing! Known to be the one of the pioneers of computer science field. Also known as one of the founders of functional programming. That was what I was exposed to in a Programming Paradigms course, widely known to be the most challenging course at Monash. In fact, that is indeed true - the toughest course at Monash. During the first few lessons of the course, I thought "functional programming" is like any other programming model - "an approach that is functional enough", so that's why it is called "functional programming". But I was wrong weeks later, I didn't realize that there was actually a close association between programming and the concept of a mathematical function - f(x) or g(x)!
 
