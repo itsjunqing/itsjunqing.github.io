@@ -5,7 +5,7 @@ title: Home
 
 # Hey 👋🏻! I am Jun Qing! 
 
-I am a junior or a final-year student, majoring in Computer Science studies at [Monash University](https://www.monash.edu/). 
+I am a junior or a final-year student, majoring in Computer Science studies at [Monash University Malaysia](https://www.monash.edu.my/).
 
 This websites serve as my garden of thoughts - a collection of things that I have learned over the years. 
 
