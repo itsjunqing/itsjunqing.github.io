@@ -8,7 +8,7 @@ permalink: /about
 
 Hi there! 👋 
 
-My name is Jun Qing! I am currently a full-time undergraduate student at [Monash University](https://www.monash.edu/) (Malaysia), majoring in Computer Science 👨‍💻. My current study focuses on Algorithms, Databases and Software Engineering. 
+My name is Jun Qing! I am currently a recent graduate from [Monash University](https://www.monash.edu/) (Malaysia), majoring in Computer Science 👨‍💻. My current focus is on Algorithms, Databases and Software Engineering. 
 
 I enjoy doing math and often practice problem solving skills with [HackerRank](https://www.hackerrank.com/imjunqing) (keen to expand to other sites like LeetCode in the near future!) Throughout my undergraduate studies, I assisted mentoring freshman students in kickstarting their programming journey.
 

@@ -3,12 +3,12 @@ name: Jun Qing Lim
 description: A personal blog
 github: itsjunqing
 favicon: /assets/favicon/favicon.ico
-email: jun.monash@itsjunqing.me
+email: itsjunqing@gmail.com
 github_username: itsjunqing
 linkedin_username: itsjunqing
 avatar: assets/img/avatar/walking.gif
 
-url: "itsjunqing.me"
+url: "itsjunqing.com"
 baseurl: ""
 
 permalink: /blog/:title
