@@ -8,7 +8,7 @@ permalink: /about
 
 Hi there! 👋 
 
-My name is Jun-Qing! I am currently a graduate student of [University of Waterloo](https://uwaterloo.ca/), pursuing a Master of Math in Computer Science with a focus on Databases, Systems and Software Engineering. I recently graduated from [Monash University](https://www.monash.edu/), majoring in Computer Science 👨‍💻 studies. 
+My name is Junqing! I am currently a graduate student of [University of Waterloo](https://uwaterloo.ca/), pursuing a Master of Math in Computer Science with a focus on Databases, Systems and Software Engineering. I recently graduated from [Monash University](https://www.monash.edu/), majoring in Computer Science 👨‍💻 studies. 
 
 During my undergraduate studies, I assisted in mentoring freshman students in kickstarting their programming journey. My interests vary from time to time and I am currently exploring what the world 🌍 is offering. 
 
