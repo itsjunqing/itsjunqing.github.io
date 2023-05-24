@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Hey 👋🏻! I am Junqing! 
+# Hey 👋🏻! I am Jun! 
 
 I am currently a graduate student of MMATH CS at the University of Waterloo's [Cheriton School of CS](https://cs.uwaterloo.ca/). I recently graduated from [Monash University](https://www.monash.edu/), majoring in Computer Science studies. I will graduate from my Master's degree in 2024. 
 
