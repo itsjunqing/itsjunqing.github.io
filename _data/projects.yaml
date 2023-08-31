@@ -9,6 +9,21 @@
     - gson
     - design patterns
 
+- name: Trick-taking cards 
+  description: Trick-taking cards game
+  github: trick-taking-cards
+  image: trick-taking-cards.png
+  tools: 
+    - haskell
+
+- name: Alert detection of distributed wireless sensor network
+  description: Alert detection of distributed wireless sensor network with Open MPI
+  github: alert-detection-distributed-wsn-mpi
+  image: alert-detection-distributed-wsn-mpi.png
+  tools: 
+    - openmpi
+    - c
+
 - name: Biquadris
   description: Tetris-like C++ game
   github: biquadris-game
@@ -46,13 +61,6 @@
   image: sthrive.png
   tools: 
     - firebase
-
-- name: Hearts 
-  description: Trick-taking hearts card game
-  github: hearts-game
-  image: hearts.png
-  tools: 
-    - haskell
 
 - name: Asteriods
   description: Bullet-shooting game
