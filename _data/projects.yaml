@@ -1,6 +1,6 @@
-- name: Tutor-Student Matchmaking
+- name: TeraBytes
   description: A tutor-student matchmaking application that connects students to tutors according to bidding of subjects
-  github: tutor-student-matching
+  github: terabytes
   image: tutor-student.png
   tools:
     - java
@@ -9,20 +9,32 @@
     - gson
     - design patterns
 
-- name: Trick-taking cards 
-  description: Trick-taking cards game
-  github: trick-taking-cards
-  image: trick-taking-cards.png
-  tools: 
-    - haskell
+- name: Dokumental
+  description: Document readability classification that classifies a document's readability level based on user comprehension level
+  github: dokumental
+  image: dokumental.png
+  tools:
+    - django
+    - reactjs
+    - tensorflow
+    - classifier-model
+    - nltk
 
 - name: Alert detection of distributed wireless sensor network
   description: Alert detection of distributed wireless sensor network with Open MPI
   github: alert-detection-distributed-wsn-mpi
   image: alert-detection-distributed-wsn-mpi.png
   tools: 
+    - parallel communication
     - openmpi
     - c
+
+- name: Trick-taking cards 
+  description: Trick-taking cards game
+  github: trick-taking-cards
+  image: trick-taking-cards.png
+  tools: 
+    - haskell
 
 - name: Biquadris
   description: Tetris-like C++ game
