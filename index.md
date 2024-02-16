@@ -7,7 +7,7 @@ title: Home
 
 I am currently a graduate student of MMATH CS at the University of Waterloo's [Cheriton School of CS](https://cs.uwaterloo.ca/). I recently graduated from [Monash University](https://www.monash.edu/), majoring in Computer Science studies. 
 
-Prior to graduate school, I worked at [DeliveryHero (foodpanda)](https://tech.deliveryhero.com) as a Software Engineer building backend services. My current graduate studies focus on the areas of databases, systems, and software engineering. I will graduate from my Master's degree in Fall 2024. I enjoy working on issues that helps create "technological progress". 
+Prior to graduate school, I worked at [DeliveryHero (foodpanda)](https://tech.deliveryhero.com) as a Software Engineer building backend services. My current graduate studies focus on the areas of databases, systems, and software engineering. I will graduate from my Master's degree in Summer 2024. 
 
 This website serves as my garden of thoughts - a collection of things that I have learned over the years. 
 
